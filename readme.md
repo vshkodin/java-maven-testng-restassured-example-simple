@@ -1,8 +1,9 @@
-Run Java, Maven, TestNG, Rest-assured
+Java, Maven, TestNG, Rest-assured
+### How to run
 ```
 $ mvn -Dgroups=Smoke,Regression test
 ```
-or to run all 
+or
 ```
 $ mvn test 
 ```
