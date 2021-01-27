@@ -1,4 +1,4 @@
-Java, Maven, TestNG, Rest-assured
+### Simple example of Testing Framework for API testing using Java, Maven, TestNg, Rest-assured.
 ### How to run
 ```
 $ mvn -Dgroups=Smoke,Regression test
